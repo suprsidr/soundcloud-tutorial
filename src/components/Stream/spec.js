@@ -12,5 +12,4 @@ describe('Stream', () => {
 
     expect(element.find('.track')).to.have.length(2);
   });
-
 });
